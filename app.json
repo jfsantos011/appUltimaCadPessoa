@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "appUltimaCadPessoa",
-    "slug": "appUltimaCadPessoa",
+    "name": "appReactFirebase",
+    "slug": "appReactFirebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
